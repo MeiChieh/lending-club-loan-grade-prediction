@@ -18,9 +18,9 @@ The analysis uses Lending Club data which includes:
 
 ## 📗 Notebooks
 
-- [1_data_cleaning.ipynb](https://github.com/TuringCollegeSubmissions/mchien-ML.3.5/blob/master/1_data_wrangling_and_cleaning.ipynb): Data preprocessing and cleaning
-- [2_eda.ipynb](https://github.com/TuringCollegeSubmissions/mchien-ML.3.5/blob/master/2_eda.ipynb): Exploratory data analysis
-- [3_modeling.ipynb](https://github.com/TuringCollegeSubmissions/mchien-ML.3.5/blob/master/3_modeling.ipynb): Model development and evaluation
+- [1_data_cleaning.ipynb](https://github.com/MeiChieh/lending-club-loan-grade-prediction/blob/main/1_data_wrangling_and_cleaning.ipynb): Data preprocessing and cleaning
+- [2_eda.ipynb](https://github.com/MeiChieh/lending-club-loan-grade-prediction/blob/main/2_eda.ipynb): Exploratory data analysis
+- [3_modeling.ipynb](https://github.com/MeiChieh/lending-club-loan-grade-prediction/blob/main/3_modeling): Model development and evaluation
 
 ## 📈 Analysis Structure
 
