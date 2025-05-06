@@ -1,0 +1,46 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+termcolor = "*"
+scikit-learn = "*"
+pyflakes = "*"
+pyqt5 = "*"
+matplotlib = "==3.7.3"
+feature-engine = "*"
+joblib = "*"
+jinja2 = "*"
+xgboost = "*"
+ipykernel = "*"
+nbformat = "*"
+shap = "*"
+ipywidgets = "*"
+fastapi = "*"
+flask = "*"
+requests = "*"
+uvicorn = "*"
+pydantic = "*"
+modin = {version = "*", extras = ["all"]}
+optuna = "*"
+nltk = "*"
+boruta = "*"
+dask = {version = "*", extras = ["dataframe"]}
+category-encoders = "*"
+imblearn = "*"
+optuna-distributed = "*"
+optuna-integration = "*"
+locust = "*"
+lightgbm = "*"
+missingno = "*"
+
+[dev-packages]
+ipykernel = "*"
+optuna-dashboard = "*"
+
+[requires]
+python_version = "3.10"
